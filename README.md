@@ -43,4 +43,7 @@ As specified in the requirements of the challenge, the final result should be a 
 - Purchase Price
 - Rank
 
-the result has been exported as a csv file, results.csv.
+The result has been exported as a csv file, results.csv.
+
+## Acknowledgements
+Special thanks to [preppindata.com](https://www.preppindata.com) for providng an endless supply of datasets and challenges.
