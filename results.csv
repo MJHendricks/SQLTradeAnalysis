@@ -1,4 +1,5 @@
-﻿Huge,Very High,2023-01-01,BP,Energy,NYSE,BP p.l.c.,117990000000,$86921.67,1
+﻿Market_Cap_Group,Purchase_Price_Group,file_date,Ticker,Sector,Market,Stock Name,Market_Capitalisation,Purchase Price,Rank
+Huge,Very High,2023-01-01,BP,Energy,NYSE,BP p.l.c.,117990000000,$86921.67,1
 Huge,Medium,2023-01-01,XOM,Energy,NYSE,Exxon Mobil Corporation,353770000000,$39345.93,1
 Huge,Medium,2023-01-01,JNJ,Health Care,NYSE,Johnson & Johnson,361920000000,$27289.36,2
 Huge,Low,2023-01-01,RY,Finance,NYSE,Royal Bank Of Canada,103480000000,$3052.98,1
