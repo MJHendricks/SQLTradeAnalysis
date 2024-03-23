@@ -1,4 +1,4 @@
-# Cleaning and Analysis of Trading Data using SQL 
+# Cleaning and Preparation of Trading Data using SQL 
 This project was initally designed for the [Week 8 2023 Data Preparation Challenge](https://www.preppindata.com/challenges) to be completed in Tableau. However, it has been entirely implemented using SQL.
 ## Dataset
 There are 12 files in total, one for each month of the year, containing information on the stock purchased, the price it was purchased at and the person who authorized the purchase.
